@@ -1,0 +1,26 @@
+[
+    {
+        "id_bulan": "1",
+        "tahun": "2020",
+        "bulan": "January",
+        "L": "7",
+        "P": "29",
+        "total": "36"
+    },
+    {
+        "id_bulan": "2",
+        "tahun": "2020",
+        "bulan": "February",
+        "L": "17",
+        "P": "24",
+        "total": "41"
+    },
+    {
+        "id_bulan": "3",
+        "tahun": "2020",
+        "bulan": "March",
+        "L": "0",
+        "P": "14",
+        "total": "14"
+    }
+]
